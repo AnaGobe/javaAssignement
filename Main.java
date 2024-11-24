@@ -21,8 +21,6 @@ public class Main {
 
         checkNumber(15);
         hasTeen(12, 15, 20);
-        hasTeen(10, 11, 12);
-        hasTeen(13, 19, 25);
     }
 
     public static void checkNumber(int number) {
