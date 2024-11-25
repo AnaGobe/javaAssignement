@@ -29,7 +29,7 @@ public class Main {
         } else if (number < 0) {
             System.out.println("უარყოფითი");
         } else {
-            System.out.println("ნოლი");
+            System.out.println("ნული");
         }
     }
 
