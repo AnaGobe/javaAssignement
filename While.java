@@ -2,7 +2,7 @@ package org.example;
 
 public class While {
         public static void main(String[] args) {
-            String word = "sdshbdsbddssz";
+            String word = "sdshbdzbddssz";
             int positionOfTheSymbol = 2;
 
             while (positionOfTheSymbol < word.length()) {
